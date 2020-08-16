@@ -1,0 +1,26 @@
+Salut c'est votre Amis Olive_Noire qui vous parle 😉
+
+Ceci est le guide d'utilisation de mon jeu (la je fais genre je parle mais c'est bourrés de fautes) il se joue sur navigateur Web
+
+Prérequis : 
+
+1 - Ce programme nécessite d'avoir installer wampServer (ou équivalent) mais il est préferable d'utilsé wamp car le fichier start.bat execute wamp
+
+Guide D'utilisation :
+
+2 - Le fichier allume automatiquement le  MoneyWebLauncher(Online).exe  mais si cela echoue il faudra le lancer par soi-même
+3 - Le fichier MoneyWebLauncher(Offline).exe a le même role que le Online mais celui là n'a pas besoin de serveur locale pour fonctionner donc pas de système de serveur
+
+Bugs ? : 
+
+4 - en cas de conrruption Pour acceder aux sauvegardes il faut aller dans le dossier Data/Users et choississez le fichier .json avec le nom de votre Profile (je vous le dit car je sais que de toutes manières vous aurez trouver et modifier votre sauvegarde !)
+5 - C'est une version Bêta donc il peux il y  avoir des bugs et rien ne vous empêche de modifier le code pour faire un truc mieux (genre les interfaces .css) ou les bugs (Oui Oui c'est Open Source 😉)
+
+Bon Jeu 😀 !!
+
+
+‼⚠ CE DOSSIER EST A PLACER DANS LE LOCAL WWW DE WAMP ⚠‼
+
+Pour me contacter :
+
+Discord : Olive_Noire#5057

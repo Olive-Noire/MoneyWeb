@@ -1,0 +1,44 @@
+body {
+
+    background-color: purple;
+
+
+}
+
+#Choix {
+
+    color: white;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+
+}
+
+.profile {
+
+    width: 70px;
+    border: 10px solid green;
+    background-image: url("../../Media/Images/coffre\ fort.png");
+    background-repeat: no-repeat;
+    background-color: rgb(170, 170, 170);
+    background-size: 170px;
+    font-size: 20px;
+    color : green;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 50px;
+    margin: 20px;
+
+}
+
+.profile:hover {
+
+    width: 80px;
+    border: 17px solid blue;
+    color: blue;
+    background-image: url("../../Media/Images/coffre\ fort.gif");
+    background-size: 200px;
+    font-size: 25px;
+    padding: 60px;
+    margin: 25px;
+
+}
