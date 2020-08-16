@@ -227,7 +227,7 @@
 
                     money -= PrixAuto;
 
-                    Prix += (15 * PlusAuto);
+                    PrixAuto += (15 * PlusAuto);
 
                 PlusAuto++;
 
